@@ -1,19 +1,5 @@
 // write your code below!
-function happyHolidays(){
-  return "Happy holidays!";
-}
 
-function happyHolidaysTo(name){
-  return 'Happy holidays, ${name}!';
-}
-
-function happyHolidaysTo(holiday,name){
-  return 'Happy ${holiday}, ${name}!';
-}
-
-function happyHolidaysTo(days,holiday){
-  return 'Its ${days} days until ${holiday}!';
-}
 //1. Write a function that returns a value
 function happyHolidays(){
   return "Happy holidays!";
